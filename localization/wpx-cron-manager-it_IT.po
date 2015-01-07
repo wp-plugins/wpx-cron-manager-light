@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cron Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-22 09:12+0100\n"
+"PO-Revision-Date: 2014-10-22 09:12+0100\n"
+"Last-Translator: wpXtreme, Inc. <info@wpxtre.me>\n"
+"Language-Team: wpXtreme, Inc. <info@wpxtre.me>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_nx:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.10\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/admin/wpxcronmanager-admin.php:105
+msgid "Cron Manager"
+msgstr ""
+
+#: ../classes/admin/wpxcronmanager-admin.php:111
+msgid "Cron list"
+msgstr "Lista dei Cron"
+
+#: ../classes/core/wpxcm-ajax.php:76 ../classes/core/wpxcm-ajax.php:117
+#: ../classes/core/wpxcm-ajax.php:171
+msgid "No Cron Hook name!"
+msgstr "Hook name mancante"
+
+#: ../classes/cron/wpxcm-cron-viewcontroller.php:59
+msgid "Registered Cron"
+msgstr "Cron Registrati"
+
+#: ../classes/cron/wpxcm-cron-viewcontroller.php:81
+msgid "Items per page"
+msgstr "Elementi per pagina"
+
+#: ../classes/cron/wpxcm-cron-viewcontroller.php:162
+msgid "in"
+msgstr ""
+
+#: ../classes/cron/wpxcm-cron-viewcontroller.php:163
+msgid "ago"
+msgstr ""
+
+#: ../classes/cron/wpxcm-cron-viewcontroller.php:171
+msgid "wait..."
+msgstr ""
+
+#: ../classes/cron/wpxcm-cron-viewcontroller.php:192
+msgid "Now!"
+msgstr "Adesso!"
+
+#: ../classes/cron/wpxcm-cron.php:139
+msgid "Next Run"
+msgstr "Prossima esecuzione"
+
+#: ../classes/cron/wpxcm-cron.php:140
+msgid "Hook name"
+msgstr "Nome Hook"
+
+#: ../classes/cron/wpxcm-cron.php:141
+msgid "Schedule"
+msgstr "Pianifica"
+
+#: ../classes/cron/wpxcm-cron.php:142
+msgid "Count Down"
+msgstr "Conto alla rovescia"
+
+#: ../classes/cron/wpxcm-cron.php:143
+msgid "Execute"
+msgstr "Esegui"
+
+#: ../classes/cron/wpxcm-cron.php:144
+msgid "Status"
+msgstr "Stato"
+
+#: ../classes/cron/wpxcm-cron.php:173
+msgid "All"
+msgstr "Tutti"
+
+#: ../classes/cron/wpxcm-cron.php:181
+msgid "Enabled"
+msgstr "Abilitati"
+
+#: ../classes/cron/wpxcm-cron.php:182
+msgid "Disabled"
+msgstr "Disabilitati"
+
+#: ../classes/cron/wpxcm-cron.php:261 ../classes/cron/wpxcm-cron.php:287
+#: ../classes/cron/wpxcm-cron.php:299
+msgid "Disable"
+msgstr "Disabilita"
+
+#: ../classes/cron/wpxcm-cron.php:262 ../classes/cron/wpxcm-cron.php:293
+#: ../classes/cron/wpxcm-cron.php:300
+msgid "Enable"
+msgstr "Abilita"
+
+#: ../classes/cron/wpxcm-cron.php:389
+msgid "One-time"
+msgstr "Una volta sola"
+
+#: ../kickstart.php:109
+#, php-format
+msgid ""
+"<strong>%s</strong> cannot be used because is not compatible with your "
+"current <strong>WordPress version %s</strong> (<strong>minimum requirement: "
+"%s</strong>)"
+msgstr ""
+
+#: ../kickstart.php:110
+#, php-format
+msgid ""
+"<strong>%s</strong> cannot be used because is not compatible with your "
+"current <strong>PHP language version %s</strong> (<strong>minimum "
+"requirement: %s</strong>)"
+msgstr ""
+
+#: ../kickstart.php:111
+#, php-format
+msgid ""
+"<strong>%s</strong> cannot be used because is not compatible with your "
+"current <strong>MySQL database version %s</strong> (<strong>minimum "
+"requirement: %s</strong>)"
+msgstr ""
+
+#: ../kickstart.php:115
+#, php-format
+msgid ""
+"To continue using <strong>%s</strong>, please upgrade the WordPress version "
+"to the minimum required version."
+msgstr ""
+
+#: ../kickstart.php:116
+#, php-format
+msgid ""
+"To continue using <strong>%s</strong>, please upgrade the PHP language "
+"version to the minimum required version."
+msgstr ""
+
+#: ../kickstart.php:117
+#, php-format
+msgid ""
+"To continue using <strong>%s</strong>, please upgrade the MySQL version to "
+"the minimum required version."
+msgstr ""
+
+#: ../kickstart.php:121
+#, php-format
+msgid ""
+"<strong>%s</strong> cannot be used because is not compatible with your "
+"current <strong>wpXtreme framework version %s</strong> (<strong>minimum "
+"requirement: %s</strong>)"
+msgstr ""
+
+#: ../kickstart.php:122
+#, php-format
+msgid ""
+"To continue using <strong>%s</strong>, please upgrade the wpXtreme framework "
+"version to the minimum required version."
+msgstr ""
+
+#~ msgid "Information"
+#~ msgstr "Informazioni"
+
+#~ msgid "Warning!"
+#~ msgstr "Attenzione!"
+
+#~ msgid "Operation successfully!"
+#~ msgstr "Operazione riuscita con successo"

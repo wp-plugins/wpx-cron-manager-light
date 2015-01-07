@@ -1,0 +1,66 @@
+/**
+ * CSS Style Sheet for Cron list table
+ *
+ * @author        wpXtreme, Inc.
+ * @copyright     Copyright (C) 2013-2014 wpXtreme Inc. All Rights Reserved.
+ * @date	        2014-02-04
+ * @version       1.0.0
+ */
+
+/* =====================================================================================================================
+ * Icon
+ * =====================================================================================================================
+ */
+
+div#wpxcm-cron-header-view.wpdk-vc-header-icon
+{
+  background-image : url(images/logo-64x64.png);
+}
+
+/* =====================================================================================================================
+ * List Table
+ * =====================================================================================================================
+ */
+
+.column-next_run
+{
+  width : 180px;
+}
+
+.column-schedule
+{
+  width            : 100px;
+  background-color : rgba(99, 193, 110, 0.10);
+}
+
+.column-count_down
+{
+  width : 180px;
+}
+
+.column-status
+{
+  width       : 50px;
+  text-align  : center !important;
+  border-left : 1px solid #e5e5e5;
+}
+
+.column-execute
+{
+  border-left : 1px solid #e5e5e5;
+  text-align  : center !important;
+  width       : 70px;
+}
+
+.column-execute button.hide
+{
+  width      : 0;
+  visibility : hidden;
+  border     : none;
+  padding    : 0;
+}
+
+.column-execute i
+{
+  font-size : 18px;
+}
