@@ -15,13 +15,17 @@ Cron Manager displays and manages any kind WordPress registered cron job.
 Cron Manager displays and manages any kind WordPress registered cron job.
 From the main view you can see the list of registered cron jobs together and enable/disable them.
 
-== Features ==
+= Full version =
+
+For updates/support please visit [full version](https://wpxtre.me/product/cron-manager)
+
+= Features =
 
 * Display all registered cron job
 * Display the next run, hook name, schedule, count down and status
 * Provides to real time execute
 
-== Related Links ==
+= Related Links =
 
 * [wpXtreme website](https://wpxtre.me)
 * [WPDK on GitHub](https://github.com/wpXtreme/wpdk)
